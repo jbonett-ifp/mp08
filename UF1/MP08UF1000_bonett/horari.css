@@ -1,0 +1,28 @@
+table{
+background-color:yellow;
+border: solid 1px;
+width: 600px;
+font-family: helvetica;
+font-size: 18;
+margin: 0 auto;
+box-shadow: 8px 8px 8px
+}
+
+th {
+  background-color:
+  yellow;
+}
+td{
+  background-color: yellow;
+  height: 40px;
+
+}
+.M06 {
+  background-color: azure
+}
+.M07 {
+  background-color: azure
+}
+.M08 {
+  background-color: azure
+}

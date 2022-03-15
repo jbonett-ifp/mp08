@@ -1,0 +1,148 @@
+html {
+
+}
+
+
+body{
+  background: linear-gradient(white 30%,#e3e4e5);
+  font-family: Atlasgrotesk,sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 960px;
+  margin: 0 0 10% 5%;
+  font-size: 16px;
+  text-decoration-color: grey;
+
+}
+
+.uy{
+
+  margin: 10% 0 7% 580px;
+  width: 800px;
+  height: 600px;
+
+}
+.mrrr{
+  margin: 3% 0 0 0;
+}
+
+/*.funcionalitat, .captures,
+.financament, .companyia, .valoracio,
+.alternatives{
+  padding: 100px 50px 50px 50px;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+li{
+  display: inline-block;
+}
+
+article {
+  width: 1900px;
+  margin: 10px 0 0 10px;
+  text-align: center;
+  font-size: 16pt;
+
+
+
+}
+
+.top{
+ margin: 0 0 0 520px;
+ width: 950px;
+ height: 800px;
+
+
+}
+
+.YK{
+
+}
+.top{
+
+}
+div{
+
+}
+
+img{
+
+}
+.mi{
+  height: auto;
+  width: auto;
+  padding-left:650px;
+}
+.MRF li:nth-child(5) img{
+  height: 130px;
+  width: 130px;
+  object-fit: contain;
+
+}
+.MRF li:nth-child(6) img{
+
+  height: 130px;
+  width: 130px;
+  object-fit: contain;
+  margin-left: 10px;
+}
+
+.yee{
+  width: 960px;
+  height: 657px;
+}
+h2{
+ font-size: 20pt;
+}
+h5{
+ width: 900px;
+}
+.yuuu {
+ width: 355px;
+ height: 125px;
+ margin: 100px 0 30px 750px;
+
+}
+.mi{
+ margin-right: 10px;
+}
+.m{
+ width: 10px;
+ height: 10px;
+}
+
+.YK li:nth-child(5) img{
+  height: 130px;
+  width: 130px;
+  object-fit: contain;
+
+}
+.YK li:nth-child(6) img{
+
+  height: 130px;
+  width: 130px;
+  object-fit: contain;
+  margin-left: 10px;
+}
+
+.ultima {
+  height: 708px;
+  width: 708px;
+}
+p {
+  text-align: center;
+  font-size: 16pt;
+}
+
+.titulo{
+  font-size: 40pt;
+  text-align: center;
+  margin: 5% 0 5% 0;
+}
+
+.deu{
+  margin: 3% 0 3% 0;
+
+}

@@ -1,0 +1,61 @@
+body {
+
+  background-color: #222;
+  font-family: Helvetica, Sans-serif;
+  color: white;
+
+}
+
+
+.documentalsinteressants{
+
+  border-radious: 5px;
+
+
+
+}
+
+.im {
+  margin: 1em;
+  padding: 1em;
+  width: 175px
+  height: 200px;
+  margin-bottom: 20px
+  position: absolute;
+  float:left;
+
+}
+.imu{
+  webkit-filter: graysacle(100%);
+  moz-filter: graysacle(100%);
+  filter: graysacle(100%);
+}
+
+.titol{
+  font-size: 30px
+}
+
+.documentalsvistos{
+
+
+}
+
+.peliculespendents{
+
+
+}
+
+
+.peliculesvistes{
+
+}
+
+.seriesseguint{
+
+
+}
+
+.seriesvistes{
+
+
+}

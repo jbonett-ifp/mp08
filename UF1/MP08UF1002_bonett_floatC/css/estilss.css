@@ -1,0 +1,36 @@
+body{
+
+}
+
+div{
+    background-color: tomato;
+    margin: 13.3px;
+    overflow: visible;
+    margin: 0;
+}
+
+
+
+.cap, .peu{
+    width: 1173.4px;
+    height: 200px;
+    clear: both;
+    text-align: center;
+}
+
+.esq, .dre{
+    width: 200px;
+    float: left;
+}
+
+.cos{
+    background-color: thistle;
+    width: 720px;
+    float: left;
+}
+
+.contenedor{
+    width: 1200px;
+    background-color: teal;
+    margin: 0 auto;
+}

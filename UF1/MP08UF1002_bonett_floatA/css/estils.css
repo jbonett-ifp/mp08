@@ -1,0 +1,51 @@
+body {
+
+}
+
+div {
+  background-color: red;
+  height: 10em;
+  width: 10em;
+}
+
+
+.floatE {
+  margin: 0 1em 1em 0;
+  float: left;
+}
+.floatR {
+  margin: 0 0 1em 1em;
+  float: right;
+ }
+ h1{
+   clear: both;
+ }
+
+.capitular{
+  float: left;
+  margin: 0 1em 1em 0;
+  background-image: url(../img/L.jpeg);
+  background-size: 100% 100%;
+  width: 2em;
+  height: 2em;
+}
+
+span{
+  color: red;
+  display: none;
+}
+
+h2{
+  clear: both;
+}
+.Esquerra{
+  float: left;
+}
+.Dreta{
+  float: right;
+}
+.columna{
+  width: 60%;
+  margin: 0 5%;
+  border-color: orange;
+}
