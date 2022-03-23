@@ -211,19 +211,31 @@ body{
   border-color: black;
 }
 
-.retrat {
+.flor {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
   background: gold;
   left: 400px;
-  top: -1675px;
+  top: -1640px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
 }
 
+.retrat {
+position: relative;
+margin: 0 auto;
+height: 180px;
+width: 180px;
+background: brown;
+border-radius: 30px 30px 30px 30px;
+border-style: groove;
+border-color: black;
+top: -1675px;
+left: 400px;
+ }
 
 .mensajec{
   width: 600px;
