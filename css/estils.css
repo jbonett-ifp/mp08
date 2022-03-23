@@ -3,9 +3,6 @@ body{
   z-index: 0;
   background: rgb(63,94,251);
   background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-  /*background-image: url(https://media1.giphy.com/media/Up8GmvOMbSdvJWvhgI/200w.webp?cid=ecf05e47ixym1sq66zbx9n9iryhagynk8lnbzka2d0cet0ew&rid=200w.webp&ct=g);
-  background-repeat: repeat;*/
-
 }
 
 
@@ -23,16 +20,6 @@ body{
 
 }
 
-.tel{
-  background-image: url("../img/tel.png");
-
-
-}
-
-.video{
-  background-image: url("../img/video.png");
-  z-index: 1;
-}
 
 .texto{
   top:50px;
@@ -390,14 +377,14 @@ left: 400px;
 }
 
 .mensajeg{
- width: 500px;
- height: 150px;
- background: white;
- position: relative;
- border-radius: 30px 30px 30px 0px;
- margin: 0 auto;
- top: -1300px;
- left:-320px;
+  width: 500px;
+  height: 150px;
+  background: white;
+  position: relative;
+  border-radius: 30px 30px 30px 0px;
+  margin: 0 auto;
+  top: -1300px;
+  left:-320px;
 }
 
 
@@ -480,5 +467,5 @@ left: 400px;
   border-style: groove;
   border-color: black;
 }
-/* Por hacer: Hora pequeña mensajes, barra escribir con frase, iconos faltantes ✓✓, div cajas ufs
+/* Por hacer: Hora pequeña mensajes, barra escribir con frase, iconos faltantes, ✓✓, Nombre cada pràctica
 */
