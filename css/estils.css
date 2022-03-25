@@ -107,18 +107,25 @@ body{
   border-color: black;
 }
 
+.horari:hover {filter: opacity(.7);}
+.horari:hover {filter: opacity(.7);}
+
 .feedly {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: blue;
+  background-image: url("../img/feedly.png");
+  background-size:contain;
   left: -440px;
   top: -160px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
 }
+
+.feedly:hover {filter: opacity(.7);}
+.feedly:hover {filter: opacity(.7);}
 
 .floata {
   position: relative;
@@ -133,12 +140,16 @@ body{
   border-color: black;
 }
 
+.floata:hover {filter: opacity(.7);}
+.floata:hover {filter: opacity(.7);}
+
 .floatb {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: yellow;
+  background-image: url("../img/floatb.png");
+  background-size:contain;
   left: -230px;
   top: -530px;
   border-radius: 30px 30px 30px 30px;
@@ -146,12 +157,16 @@ body{
   border-color: black;
 }
 
+.floatb:hover {filter: opacity(.7);}
+.floatb:hover {filter: opacity(.7);}
+
 .floatc {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: black;
+  background-image: url("../img/floatc.png");
+  background-size:contain;
   left: -20px;
   top: -935px;
   border-radius: 30px 30px 30px 30px;
@@ -159,12 +174,16 @@ body{
   border-color: black;
 }
 
+.floatc:hover {filter: opacity(.7);}
+.floatc:hover {filter: opacity(.7);}
+
 .absolut {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: grey;
+  background-image: url("../img/absolut.png");
+  background-size:contain;
   left: -20px;
   top: -900px;
   border-radius: 30px 30px 30px 30px;
@@ -172,12 +191,16 @@ body{
   border-color: black;
 }
 
+.absolut:hover {filter: opacity(.7);}
+.absolut:hover {filter: opacity(.7);}
+
 .escacs {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: orange;
+  background-image: url("../img/escacs.png");
+  background-size:contain;
   left: 190px;
   top: -1305px;
   border-radius: 30px 30px 30px 30px;
@@ -185,12 +208,17 @@ body{
   border-color: black;
 }
 
+.escacs:hover {filter: opacity(.7);}
+.escacs:hover {filter: opacity(.7);}
+
 .apps {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: purple;
+  background-image: url("../img/apps.png");
+  background-size:contain;
+  background-repeat: no-repeat;
   left: 190px;
   top: -1270px;
   border-radius: 30px 30px 30px 30px;
@@ -198,12 +226,17 @@ body{
   border-color: black;
 }
 
+.apps:hover {filter: opacity(.7);}
+.apps:hover {filter: opacity(.7);}
+
 .flor {
   position: relative;
   margin: 0 auto;
   height: 180px;
   width: 180px;
-  background: gold;
+  background-image: url("../img/flor.png");
+  background-size:contain;
+  background-repeat: no-repeat;
   left: 400px;
   top: -1675px;
   border-radius: 30px 30px 30px 30px;
@@ -211,18 +244,25 @@ body{
   border-color: black;
 }
 
+.flor:hover {filter: opacity(.7);}
+.flor:hover {filter: opacity(.7);}
+
 .retrat {
-position: relative;
-margin: 0 auto;
-height: 180px;
-width: 180px;
-background: brown;
-border-radius: 30px 30px 30px 30px;
-border-style: groove;
-border-color: black;
-top: -1640px;
-left: 400px;
+  position: relative;
+  margin: 0 auto;
+  height: 180px;
+  width: 180px;
+  background-image: url("../img/retrat.png");
+  background-size:contain;
+  border-radius: 30px 30px 30px 30px;
+  border-style: groove;
+  border-color: black;
+  top: -1640px;
+  left: 400px;
  }
+
+ .retrat:hover {filter: opacity(.7);}
+ .retrat:hover {filter: opacity(.7);}
 
 .mensajec{
   width: 600px;
@@ -318,8 +358,8 @@ left: 400px;
   height: 180px;
   width: 180px;
   background: yellow;
-  left: 110px;
-  top: -1230px;
+  left: 450px;
+  top: -1744px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
@@ -336,7 +376,7 @@ left: 400px;
   height: 180px;
   width: 180px;
   left: 110px;
-  top: 60px;
+  top: 240px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
@@ -352,7 +392,7 @@ left: 400px;
   height: 180px;
   width: 180px;
   left: -100px;
-  top: -125px;
+  top: 55px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
@@ -367,7 +407,7 @@ left: 400px;
   height: 180px;
   width: 180px;
   left: -100px;
-  top: -525px;
+  top: -335px;
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
   border-color: black;
@@ -455,13 +495,13 @@ left: 400px;
   left: -50px;
 }
 .cajacont{
-  height: 4100px;
+  height: 4300px;
   width: 1300px;
   left: 0px;
   margin: 0 auto;
   position: relative;
   z-index: -1;
-  top: -5300px;
+  top: -5500px;
   background-image: url("../img/fondo.jpg");
   border-radius: 30px 30px 30px 30px;
   border-style: groove;
