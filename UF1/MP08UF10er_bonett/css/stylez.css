@@ -7,7 +7,7 @@ body{
 
 }
 
-.columnes{
+.cap{
 
   height: 780px;
   width: 960px;
@@ -16,7 +16,7 @@ body{
 }
 
 
-.ani{
+.contenidor{
   position: relative;
   margin: 0 auto;
   height: 589px;
